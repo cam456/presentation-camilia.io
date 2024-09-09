@@ -113,6 +113,8 @@ Le setup a pris 3 jour d'intallation
 ### Fonctionnement
 
 L'installation fonctionne avec des moteurs et des files qui sont connecter à un ordinateur et un haut-parleur. Les moteurs font rouler et fait bouger les files de gauche, droite, en haut et en bas. Les moteurs crée une harmonie qui est assortie avec la tramme sonor. Pui les files sont illuminer et créé une ombres sur le mure.
+![image](https://github.com/user-attachments/assets/c98d19ea-e669-4aa5-9503-aecb5098a70c)
+
 
 ### Impact
 
