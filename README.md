@@ -57,29 +57,29 @@ Troisième journée: Journée complète + ouverture la meme soirée
 
 
 # Environnement
-lieu :  lieu doit étre dans une chambre noir
+**lieu:**  lieu doit étre dans une chambre noir
         ne doit pas avoir de sons
         un mure doit étre painturer matte noir
         mure doit pouvoir supporter 40kg
         panneau de sécurité ne doit pas étre alumée 
         
-Dimmention:  W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
+**Dimmention:**  W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
 
-Acessoire: 2x AC power cable from the right side
+**Acessoire:** 2x AC power cable from the right side
 
-Plan 3D 
+**Plan 3D:** 
 
 |   ![Galerie 1 en image](https://github.com/user-attachments/assets/af2c837f-fa4e-4950-b762-b55755ed72dc)   |   ![Galerie 1 en image: forêt](https://github.com/user-attachments/assets/83baa23e-73f5-48b7-9d7a-842374d702c2)  |   ![Galerie 1 en image: forêt](https://github.com/user-attachments/assets/1b13df78-076a-48b4-8941-58d810915ff9)  |
 |---    |:-:    |--:    |
 
-Matériel:
+**Matériel:**
           2x External units
           4x Main units
           2x Spare units
           Wires
           Sewing tools 
 
-Ordinateur
+**Ordinateur:**
         1x NUC
 
 ### Fonctionnement
