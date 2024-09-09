@@ -1,23 +1,31 @@
 # Cycle par Martin Messier
 
 ## Qui
-Martin Messier, artiste montréalais, crée depuis 15 ans des œuvres mêlant art sonore, lumière, robotique et vidéo. Ses performances et installations mettent en avant le corps. Collaborant avec divers artistes, ses créations ont été présentées dans 50 pays et ont remporté de nombreuses distinctions internationales. Il dirige la compagnie 14 lieux depuis 2010.
+Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, des lumière, de la robotique et de la vidéo. Martin a créé des diverse installations qui on été présentées dans 50 pays et qui on remporté plusieurs distinctions internationales. 
 
-Concept, audiovisual composition, programming
+https://martinmessier.art/vid/Video%20Entrance%20V14.mp4
+
+voici les collaborateur de ce projet nommé Cycle: 
+
+# Concept, audiovisual composition, programming
 Martin Messier
 
-Design, hardware
+# Design, hardware
 David Gardener
 
-Electronic
+# Electronic
 Samuel St-Aubin, Philippe Racz
 
-A lot of help by technicians
+# technicians
 Lilian Guiran, Francis Vaillancourt-Martin, Alexandre Sasset-Blouin, Marie-France Gagnier, Rémy Jannelle
 
-First phase of research
+# First phase of research
 Maxime Damecour, Robocut
 
+![image](https://github.com/user-attachments/assets/d276ac8a-f78a-468e-9473-a16e3042749f)
+![image](https://github.com/user-attachments/assets/92ab3d81-fe21-4c42-9d9a-7c536e37f61a)
+![image](https://github.com/user-attachments/assets/9ed55b8f-378c-4851-8dc2-5f89047f0c24)
+![image](https://github.com/user-attachments/assets/22177f42-c1b9-4725-8ac8-487f9defbc3d)
 
 ## Quand
 15-29 aout
