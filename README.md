@@ -26,9 +26,13 @@ Lilian Guiran, Francis Vaillancourt-Martin, Alexandre Sasset-Blouin, Marie-Franc
 ### Première phase de recherche
 Maxime Damecour, Robocut
 
+[Vidéo de l'art](https://martinmessier.art/cycles.html) 
 
 ## Quand
-Le projet a débuté il y a 4 ans et a enfin été fini pour le 15-29 août
+Le projet a débuté il y a 4 ans et a été fini en 2023 pour le festival Kikk. pour l'exposition Bodies of Water
+
+Elle a été sortie de l'atelier pour le festival village numérique de Mutek
+le 15-29 août de 18h à 23h
 ![image](https://github.com/user-attachments/assets/3f2f0827-4f88-4052-b0c2-83aade99e2e1)
 
 
@@ -41,10 +45,7 @@ Chaufferie du Cœur des sciences, UQAM
 
 ## Quoi
 
-Cycles est une installation qui amène les personnes a prendre conscience des relations entre lee phénomènes cycliques qui et imprévisibles. Les files crée une harmonie et chaos qui danse a travers la lumière et crée un spectacle d'ombre. La piece d'art demontre des fils 
-
-Malgré la vivacité de sa propulsion, le fil laisse une impression de flottement. En marquant ainsi la nuance entre la pureté de ce mouvement suspendu et la violence du mécanisme qui le féconde, l'œuvre propose une expérience où l’infini cohabite avec les recommencements qui le composent.
-Ces dialogues se retrouvent également dans l’espace sonore : les moteurs accordés enveloppent la musique diffusée de leurs timbres indécis et dessinent ce paysage dans lequel l’harmonie se construit autant par sa puissance que sa vulnérabilité.
+Cycles et une installation d'Art qui implique des files qui crée une harmonie de sons et qui danse a travers la lumière créant un spectacle d'ombre.
 
 
 ## Comment
@@ -87,11 +88,19 @@ Troisième journée: Journée complète + ouverture la meme soirée
         Poteau vertical pour atacher les lumières
 
 ### Fonctionnement
+
+L'installation fonctionne avec des moteurs et des files qui sont connecter à un ordinateur et un haut-parleur. Les moteurs font rouler et fait bouger les files de gauche, droite, en haut et en bas. Les moteurs crée une harmonie qui est assortie avec la tramme sonor. Pui les files sont illuminer et créé une ombres sur le mure.
+
 ### Impact
+
+Cycles est une installation qui amène les personnes a prendres conscience des relations entre les phénomènes cycliques qui et imprévisibles. L'oeuvres met en face une expèrience de hamonie infini avec les moteurs, la trame sonor, le mouvement des cordes les ombres crée par la lumière progeter sur le mure. 
+
 
 ## Appréciation
 
 ## Références
+
+
 
 Site de l'artiste [Martin Messier](https://martinmessier.art) 
 
