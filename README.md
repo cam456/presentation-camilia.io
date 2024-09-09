@@ -50,14 +50,14 @@ Cycles et une installation d'Art qui implique des files qui crée une harmonie d
 
 ## Comment
 
-# Horaire
+### Horaire
 Le setup a pris 3 jour d'intallation 
 Première journée: 9 à 5 avec aide d'un producteur
 Deuxième journée: 9 à 5 (pas d'aide)
 Troisième journée: Journée complète + ouverture la meme soirée
 
 
-# Environnement
+### Environnement
 **lieu:**  lieu doit étre dans une chambre noir
         ne doit pas avoir de sons
         un mure doit étre painturer matte noir
