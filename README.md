@@ -28,12 +28,12 @@ Maxime Damecour, Robocut
 
 
 ## Quand
-15-29 aout
+Le projet a débuté il y a 4 ans et a enfin été fini pour le 15-29 août
+![image](https://github.com/user-attachments/assets/3f2f0827-4f88-4052-b0c2-83aade99e2e1)
 
 
 
 ## Oû
-
 
 Chaufferie du Cœur des sciences, UQAM
 Intérieur
