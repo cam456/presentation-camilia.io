@@ -23,10 +23,8 @@ Lilian Guiran, Francis Vaillancourt-Martin, Alexandre Sasset-Blouin, Marie-Franc
 ### Première phase de recherche
 Maxime Damecour, Robocut
 
-![image](https://github.com/user-attachments/assets/d276ac8a-f78a-468e-9473-a16e3042749f)
-![image](https://github.com/user-attachments/assets/92ab3d81-fe21-4c42-9d9a-7c536e37f61a)
-![image](https://github.com/user-attachments/assets/9ed55b8f-378c-4851-8dc2-5f89047f0c24)
-![image](https://github.com/user-attachments/assets/22177f42-c1b9-4725-8ac8-487f9defbc3d)
+|   ![art](https://github.com/user-attachments/assets/d276ac8a-f78a-468e-9473-a16e3042749f)   |   ![art](https://github.com/user-attachments/assets/92ab3d81-fe21-4c42-9d9a-7c536e37f61a)  |   ![plan 3D](https://github.com/user-attachments/assets/9ed55b8f-378c-4851-8dc2-5f89047f0c24)  | ![art](https://github.com/user-attachments/assets/22177f42-c1b9-4725-8ac8-487f9defbc3d) |
+|---    |:-:    |--:    |
 
 ## Quand
 15-29 aout
