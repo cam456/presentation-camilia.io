@@ -82,6 +82,10 @@ Troisième journée: Journée complète + ouverture la meme soirée
 **Ordinateur:**
         1x NUC
 
+**Lumière:**
+        3x Source 4 mini + corde d'alimentation
+        Poteau vertical pour atacher les lumières
+
 ### Fonctionnement
 ### Impact
 
