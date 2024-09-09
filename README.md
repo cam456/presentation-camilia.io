@@ -120,10 +120,13 @@ Cycles est une installation qui amène les personnes a prendres conscience des r
 
 
 ## Appréciation
+Cette art est une inspiration car elle réussi à collaborer la technologie avec la créativité. Tout le projet s'harmonise non seulement avec les mouvements des files mais avec les sons des moteurs, la lumières qui projète les ombres des files et la trame sonor crée par l'artiste. 
+
 
 ## Références
 
 
+ [Page facebook](https://www.facebook.com/martinmessiermartinmessier/) 
 
 Site de l'artiste [Martin Messier](https://martinmessier.art) 
 
