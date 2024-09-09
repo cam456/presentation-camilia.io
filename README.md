@@ -7,8 +7,7 @@ Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, 
 |---    |:-:    |--:    |
 |   ![art](https://github.com/user-attachments/assets/d276ac8a-f78a-468e-9473-a16e3042749f)   |   ![art](https://github.com/user-attachments/assets/92ab3d81-fe21-4c42-9d9a-7c536e37f61a)  |   ![art](https://github.com/user-attachments/assets/9ed55b8f-378c-4851-8dc2-5f89047f0c24)  | 
 
-
-https://martinmessier.art/vid/Video%20Entrance%20V14.mp4
+[Vidéo introduction de l'artiste](https://martinmessier.art/vid/Video%20Entrance%20V14.mp4) 
 
 ## Les collaborateur du projet nommé Cycles: 
 
@@ -128,8 +127,7 @@ Cette art est une inspiration car elle réussi à collaborer la technologie avec
 
 ## Références
 
-
- [Page facebook](https://www.facebook.com/martinmessiermartinmessier/) 
+[Page facebook](https://www.facebook.com/martinmessiermartinmessier/) 
 
 Site de l'artiste [Martin Messier](https://martinmessier.art) 
 
