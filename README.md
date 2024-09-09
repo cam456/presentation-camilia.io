@@ -1,25 +1,25 @@
 # Cycle par Martin Messier
 
-## Qui
+# Qui
 Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, des lumière, de la robotique et de la vidéo. Martin a créé des diverse installations qui on été présentées dans 50 pays et qui on remporté plusieurs distinctions internationales. 
 
 https://martinmessier.art/vid/Video%20Entrance%20V14.mp4
 
 voici les collaborateur de ce projet nommé Cycle: 
 
-# Concept, audiovisual composition, programming
+### Concept, audiovisual composition, programming
 Martin Messier
 
-# Design, hardware
+### Design, hardware
 David Gardener
 
-# Electronic
+### Electronic
 Samuel St-Aubin, Philippe Racz
 
-# technicians
+### technicians
 Lilian Guiran, Francis Vaillancourt-Martin, Alexandre Sasset-Blouin, Marie-France Gagnier, Rémy Jannelle
 
-# First phase of research
+### First phase of research
 Maxime Damecour, Robocut
 
 ![image](https://github.com/user-attachments/assets/d276ac8a-f78a-468e-9473-a16e3042749f)
