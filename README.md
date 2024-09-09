@@ -9,7 +9,7 @@ Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, 
 
 [Vidéo introduction de l'artiste](https://martinmessier.art/vid/Video%20Entrance%20V14.mp4) 
 
-## Les collaborateur du projet nommé Cycles: 
+## Les collaborateurs du projet nommé Cycles: 
 
 ### Concept, audiovisual composition, programming
 Martin Messier
