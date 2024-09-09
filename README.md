@@ -1,4 +1,4 @@
-# Cycle par Martin Messier
+# Cycles par Martin Messier
 
 ## Qui
 Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, des lumière, de la robotique et de la vidéo. Martin a créé des diverse installations qui on été présentées dans 50 pays et qui on remporté plusieurs distinctions internationales. 
