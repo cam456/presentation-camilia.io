@@ -42,7 +42,7 @@ Le 15-29 août de 18h à 23h
 Au festival du village numérique
 Chaufferie du Cœur des sciences, UQAM
 175 Av. du Président-Kennedy, Montréal, H2X 3P2 
-
+[Village Numerique](https://village-numerique.mutek.org/fr/installations/cycles-par-martin-messier) 
 ## Quoi
 
 Cycles est une installation d'art qui implique des fils qui créent une harmonie de sons et qui danse à travers la lumière, créant un spectacle d'ombre.
