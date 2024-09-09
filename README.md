@@ -1,7 +1,7 @@
 # Cycles par Martin Messier
 
 ## Qui
-Martin Messier est un artiste montréalais qui créé des oeuvres avec du sons, des lumière, de la robotique et de la vidéo. Martin a créé des diverse installations qui on été présentées dans 50 pays et qui on remporté plusieurs distinctions internationales. 
+Martin Messier est un artiste montréalais qui crée des œuvres avec du son, des lumières, de la robotique et de la vidéo. Martin a créé diverses installations qui ont été présentées dans 50 pays et qui ont remporté plusieurs distinctions internationales.
 
 |   ![art](https://github.com/user-attachments/assets/8e7e09fb-130d-4dca-928f-c257d9ac0335)   |   ![art](https://github.com/user-attachments/assets/b195aeaa-d28c-4bb8-a028-53dc70f58787)  |   ![art](https://github.com/user-attachments/assets/05c0be92-e48e-4339-9990-92b9e4f7e753)  | 
 |---    |:-:    |--:    |
@@ -31,8 +31,8 @@ Maxime Damecour, Robocut
 ## Quand
 Le projet a débuté il y a 4 ans et a été fini en 2023 pour le festival Kikk pour l'exposition Bodies of Water
 
-Elle a été sortie de l'atelier pour le festival village numérique de Mutek
-le 15-29 août de 18h à 23h
+Elle a été sortie de l'atelier pour le festival Village Numérique de Mutek
+Le 15-29 août de 18h à 23h
 ![image](https://github.com/user-attachments/assets/3f2f0827-4f88-4052-b0c2-83aade99e2e1)
 
 
@@ -45,8 +45,8 @@ Chaufferie du Cœur des sciences, UQAM
 
 ## Quoi
 
-Cycles et une installation d'Art qui implique des files qui crée une harmonie de sons et qui danse a travers la lumière créant un spectacle d'ombre.
-Les files sont propulser et crée une illusion qu'il flottent. L'artist décrit qu'elle marque la nuance entre la pureté du mouvement suspendu et la violence du mécanisme qui le féconde.
+Cycles est une installation d'art qui implique des fils qui créent une harmonie de sons et qui danse à travers la lumière, créant un spectacle d'ombre.
+Les files sont propulsées et créent une illusion qu'ils flottent. L'artiste décrit qu'elle marque la nuance entre la pureté du mouvement suspendu et la violence du mécanisme qui le féconde.
 
 |   ![art](https://github.com/user-attachments/assets/cd196166-4174-4e88-8c61-ec99a585c969)   |   ![art](https://github.com/user-attachments/assets/7a12bb34-71d3-4977-ae33-315087fe2c12)  |   ![art](https://github.com/user-attachments/assets/e53dd9b7-08de-4b78-bcbf-6d1b86de97cf)  | 
 |---    |:-:    |--:    |
@@ -54,14 +54,14 @@ Les files sont propulser et crée une illusion qu'il flottent. L'artist décrit 
 
 
 ### Objectif de l'oeuvre
-L'oeuvre a pour objectif de crée une harmonie chaotique avec plusieur type d'Art et technologie.
+L'oeuvre a pour objectif de créer une harmonie chaotique avec plusieurs types d'art et technologie.
 
 ### Public cible
 Toutes les personnes
 
 ### Aspect techniques
 
-L'oeuvre utilise 4 techniques dont la robotique, codage, composition audio visuel et design.
+L'oeuvre utilise 4 techniques dont la robotique, codage, composition audio visuelle et design.
 
 
 ## Comment
