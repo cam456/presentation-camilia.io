@@ -46,19 +46,29 @@ Chaufferie du Cœur des sciences, UQAM
 ## Quoi
 
 Cycles et une installation d'Art qui implique des files qui crée une harmonie de sons et qui danse a travers la lumière créant un spectacle d'ombre.
+Les files sont propulser et crée une illusion qu'il flottent. L'artist décrit qu'elle marque la nuance entre la pureté du mouvement suspendu et la violence du mécanisme qui le féconde.
+
 |   ![art](https://github.com/user-attachments/assets/cd196166-4174-4e88-8c61-ec99a585c969)   |   ![art](https://github.com/user-attachments/assets/7a12bb34-71d3-4977-ae33-315087fe2c12)  |   ![art](https://github.com/user-attachments/assets/e53dd9b7-08de-4b78-bcbf-6d1b86de97cf)  | 
 |---    |:-:    |--:    |
 |   ![art](https://github.com/user-attachments/assets/3a9fb4cf-48bf-43b2-b323-c9f1c7fb5096)   |   ![art](https://github.com/user-attachments/assets/d36f5e8d-2762-47bd-bcb5-ad2bed399fd7)  |   ![art](https://github.com/user-attachments/assets/40fb080f-c026-46bc-bbca-95dbf0054e7b)  | 
 
 
+### Objectif de l'oeuvre
+L'oeuvre a pour objectif de crée une harmonie chaotique avec plusieur type d'Art et technologie.
+
+### Public cible
+Toutes les personnes
+
+### Aspect techniques
+
+L'oeuvre utilise 4 techniques dont la robotique, codage, composition audio visuel et design.
+
 
 ## Comment
 
-### Horaire
-Le setup a pris 3 jour d'intallation 
-* Première journée: 9 à 5 avec aide d'un producteur
-* Deuxième journée: 9 à 5 (pas d'aide)
-* Troisième journée: Journée complète + ouverture la meme soirée
+### Composante
+
+Le projet et composer de 8 files et moteur qui sont connecter a un ordinateur et speaker. Puis il y a une lumière qui et projeter sur les files
 
 
 ### Environnement
@@ -93,6 +103,12 @@ Le setup a pris 3 jour d'intallation
 **Lumière:**
 * 3x Source 4 mini + corde d'alimentation
 * Poteau vertical pour atacher les lumières
+
+### Horaire
+Le setup a pris 3 jour d'intallation 
+* Première journée: 9 à 5 avec aide d'un producteur
+* Deuxième journée: 9 à 5 (pas d'aide)
+* Troisième journée: Journée complète + ouverture la meme soirée
 
 ### Fonctionnement
 
