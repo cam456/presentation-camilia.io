@@ -78,7 +78,9 @@ Le projet et composer de 8 files et moteur qui sont connecter a un ordinateur et
 * un mure doit étre painturer matte noir
 * mure doit pouvoir supporter 40kg
 * panneau de sécurité ne doit pas étre alumée 
-        
+
+
+
 **Dimmention:**  
 * W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
 
