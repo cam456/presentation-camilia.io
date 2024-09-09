@@ -49,7 +49,6 @@ Cycles et une installation d'Art qui implique des files qui crée une harmonie d
 |   ![art](https://github.com/user-attachments/assets/cd196166-4174-4e88-8c61-ec99a585c969)   |   ![art](https://github.com/user-attachments/assets/7a12bb34-71d3-4977-ae33-315087fe2c12)  |   ![art](https://github.com/user-attachments/assets/e53dd9b7-08de-4b78-bcbf-6d1b86de97cf)  | 
 |---    |:-:    |--:    |
 |   ![art](https://github.com/user-attachments/assets/3a9fb4cf-48bf-43b2-b323-c9f1c7fb5096)   |   ![art](https://github.com/user-attachments/assets/d36f5e8d-2762-47bd-bcb5-ad2bed399fd7)  |   ![art](https://github.com/user-attachments/assets/40fb080f-c026-46bc-bbca-95dbf0054e7b)  | 
-|---    |:-:    |--:    |
 
 
 
