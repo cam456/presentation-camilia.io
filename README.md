@@ -29,7 +29,7 @@ Maxime Damecour, Robocut
 [Vidéo de l'art](https://martinmessier.art/cycles.html) 
 
 ## Quand
-Le projet a débuté il y a 4 ans et a été fini en 2023 pour le festival Kikk. pour l'exposition Bodies of Water
+Le projet a débuté il y a 4 ans et a été fini en 2023 pour le festival Kikk pour l'exposition Bodies of Water
 
 Elle a été sortie de l'atelier pour le festival village numérique de Mutek
 le 15-29 août de 18h à 23h
