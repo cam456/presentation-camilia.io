@@ -72,7 +72,7 @@ Le projet et composer de 8 files et moteur qui sont connecter a un ordinateur et
 
 
 ### Environnement
-**lieu:**
+--lieu:--
 * lieu doit étre dans une chambre noir
 * ne doit pas avoir de sons
 * un mure doit étre painturer matte noir
@@ -81,13 +81,13 @@ Le projet et composer de 8 files et moteur qui sont connecter a un ordinateur et
 
 
 
-**Dimmention:**  
+--Dimmention:--
 * W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
 
-**Acessoire:** 
+--Acessoire:--
 * 2x AC power cable from the right side
 
-**Plan 3D:** 
+--Plan 3D:-- 
 
 |   ![plan 3D](https://github.com/user-attachments/assets/af2c837f-fa4e-4950-b762-b55755ed72dc)   |   ![plan 3D](https://github.com/user-attachments/assets/83baa23e-73f5-48b7-9d7a-842374d702c2)  |   ![plan 3D](https://github.com/user-attachments/assets/1b13df78-076a-48b4-8941-58d810915ff9)  |
 |---    |:-:    |--:    |
