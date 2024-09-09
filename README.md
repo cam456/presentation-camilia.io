@@ -52,9 +52,9 @@ Cycles et une installation d'Art qui implique des files qui crée une harmonie d
 
 ### Horaire
 Le setup a pris 3 jour d'intallation 
-Première journée: 9 à 5 avec aide d'un producteur
-Deuxième journée: 9 à 5 (pas d'aide)
-Troisième journée: Journée complète + ouverture la meme soirée
+* Première journée: 9 à 5 avec aide d'un producteur
+* Deuxième journée: 9 à 5 (pas d'aide)
+* Troisième journée: Journée complète + ouverture la meme soirée
 
 
 ### Environnement
@@ -74,11 +74,11 @@ Troisième journée: Journée complète + ouverture la meme soirée
 |---    |:-:    |--:    |
 
 **Matériel:**
-          2x External units
-          4x Main units
-          2x Spare units
-          Wires
-          Sewing tools 
+        * 2x External units
+        * 4x Main units
+        * 2x Spare units
+        * Wires
+        * Sewing tools 
 
 **Ordinateur:**
         1x NUC
