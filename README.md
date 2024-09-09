@@ -58,15 +58,18 @@ Le setup a pris 3 jour d'intallation
 
 
 ### Environnement
-**lieu:**  lieu doit étre dans une chambre noir
-        ne doit pas avoir de sons
-        un mure doit étre painturer matte noir
-        mure doit pouvoir supporter 40kg
-        panneau de sécurité ne doit pas étre alumée 
+**lieu:**
+* lieu doit étre dans une chambre noir
+* ne doit pas avoir de sons
+* un mure doit étre painturer matte noir
+* mure doit pouvoir supporter 40kg
+* panneau de sécurité ne doit pas étre alumée 
         
-**Dimmention:**  W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
+**Dimmention:**  
+* W30ft (9m) x D20ft (6m) minimum (See 3D plans below for reference) 
 
-**Acessoire:** 2x AC power cable from the right side
+**Acessoire:** 
+* 2x AC power cable from the right side
 
 **Plan 3D:** 
 
@@ -74,18 +77,18 @@ Le setup a pris 3 jour d'intallation
 |---    |:-:    |--:    |
 
 **Matériel:**
-        * 2x External units
-        * 4x Main units
-        * 2x Spare units
-        * Wires
-        * Sewing tools 
+* 2x External units
+* 4x Main units
+* 2x Spare units
+* Wires
+* Sewing tools 
 
 **Ordinateur:**
-        1x NUC
+* 1x NUC
 
 **Lumière:**
-        3x Source 4 mini + corde d'alimentation
-        Poteau vertical pour atacher les lumières
+* 3x Source 4 mini + corde d'alimentation
+* Poteau vertical pour atacher les lumières
 
 ### Fonctionnement
 
