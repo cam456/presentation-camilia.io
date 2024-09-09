@@ -68,7 +68,7 @@ L'oeuvre utilise 4 techniques dont la robotique, codage, composition audio visue
 
 ### Composante
 
-Le projet et composer de 8 files et moteur qui sont connecter a un ordinateur et speaker. Puis il y a une lumière qui et projeter sur les files
+Le projet est composé de 8 fils et moteurs qui sont connectés à un ordinateur et speaker. Puis il y a une lumière qui est projetée sur les fils.
 
 
 ### Environnement
@@ -113,17 +113,17 @@ Le setup a pris 3 jour d'intallation
 
 ### Fonctionnement
 
-L'installation fonctionne avec des moteurs et des files qui sont connecter à un ordinateur et un haut-parleur. Les moteurs font rouler et fait bouger les files de gauche, droite, en haut et en bas. Les moteurs crée une harmonie qui est assortie avec la tramme sonor. Pui les files sont illuminer et créé une ombres sur le mure.
+L'installation fonctionne avec des moteurs et des fils qui sont connectés à un ordinateur et un haut-parleur. Les moteurs font rouler et font bouger les files de gauche, droite, en haut et en bas. Les moteurs créent une harmonie qui est assortie avec la trame sonore. Puis les files sont illuminer et créer des ombres sur le mur.
 ![image](https://github.com/user-attachments/assets/c98d19ea-e669-4aa5-9503-aecb5098a70c)
 
 
 ### Impact
 
-Cycles est une installation qui amène les personnes a prendres conscience des relations entre les phénomènes cycliques qui et imprévisibles. L'oeuvres met en face une expèrience de hamonie infini avec les moteurs, la trame sonor, le mouvement des cordes les ombres crée par la lumière progeter sur le mure. 
+Cycles est une installation qui amène les personnes à prendre conscience des relations entre les phénomènes cycliques qui sont imprévisibles. L'oeuvre met en face une expérience de harmonie infinie avec les moteurs, la trame sonore, le mouvement des cordes, les ombres créées par la lumière progresser sur le mur.
 
 
 ## Appréciation
-Cette art est une inspiration car elle réussi à collaborer la technologie avec la créativité. Tout le projet s'harmonise non seulement avec les mouvements des files mais avec les sons des moteurs, la lumières qui projète les ombres des files et la trame sonor crée par l'artiste. 
+Cet art est une inspiration car elle réussit à collaborer la technologie avec la créativité. Tout le projet s'harmonise non seulement avec les mouvements des fils mais avec les sons des moteurs, la lumière qui projette les ombres des files et la trame sonore créée par l'artiste.
 
 
 ## Références
